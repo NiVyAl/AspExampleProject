@@ -73,3 +73,6 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+# DB browser SQLite #
+*db-shm
+*db-wal
